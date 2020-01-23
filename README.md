@@ -5,6 +5,6 @@ This is a POC for word frequency counter in a file.A program that displays how m
    Assuming that you're running on a base OS
 * Install JDK preferably 1.8
 * Set PATH and ClassPath for Java
-* Download the executable Jar file from the existing repo.
+* Download the executable Jar file from the existing repo(out/artifacts/word-frequency-counter.jar)
 * Run "Java -jar word-frequency-counter.jar"
   * Input the file path for the program
